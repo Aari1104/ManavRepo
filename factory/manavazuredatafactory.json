@@ -1,0 +1,9 @@
+{
+	"name": "manavazuredatafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "65af55e0-1e10-44f3-9aaa-8981578db2f4",
+		"tenantId": "ab52d4e5-9cc7-437a-bdda-f4239e145187"
+	}
+}
